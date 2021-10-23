@@ -409,3 +409,14 @@
 "classname" "info_player_deathmatch"
 "origin" "-16 48 32"
 }
+// entity 9
+{
+"classname" "info_player_deathmatch"
+"origin" "64 -768 32"
+"angle" "90"
+}
+// entity 10
+{
+"classname" "item_armor1"
+"origin" "176 -768 16"
+}
